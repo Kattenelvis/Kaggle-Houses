@@ -1,3 +1,6 @@
 /.vscode
 /surface3d_demo.py
 autoclick.py
+pred1.csv
+pred1best.csv
+pred1better.csv
